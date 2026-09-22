@@ -1,11 +1,9 @@
-# Product brochure
+# Brochure PDF
 
-Public page: https://wen-gp.github.io/brochure-0918/
+Direct PDF link: https://wen-gp.github.io/brochure-0918/brochure.pdf
 
-- `brochure.pdf`: optimized reading copy, original two-page layout.
-- `assets/`: fourteen panel previews for mobile browsing.
-- Release `v0918`, asset `brochure-original.pdf`: unchanged original PDF.
+The QR code opens the complete, optimized two-page PDF directly. There is no landing page or custom viewer.
 
-GitHub Pages publishes the root of the `main` branch. Keep the account and repository names unchanged to preserve printed QR codes.
+Original PDF: https://github.com/wen-gp/brochure-0918/releases/download/v0918/brochure-original.pdf
 
-To update the brochure, replace `brochure.pdf` and the matching panel images, then push to `main`.
+Keep the account name, repository name and brochure.pdf filename unchanged to preserve the direct PDF QR code.
